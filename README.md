@@ -7,7 +7,7 @@ Topics covered here are foundations for large language models (LLMs) or the popu
 ```mermaid
 
 flowchart TB
-    NLP --> NLP & NLG
+    NLP --> NLU & NLG
     
 ```
 
