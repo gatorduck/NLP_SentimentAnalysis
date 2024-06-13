@@ -35,7 +35,7 @@ Using our tokenized words and part of speech sets we tally negative and positive
 
 Adding score and overal verbal sentiment, e.g. positive or negative. We see that the Ghost Ship movie had a positive review, in this case anything with sentiment scores greater than or equal to zero are labelled as positive. This may not accurately represent how great the movie is, as this is only 1 review per movie. We could scape over hundreds of reviews per movie to make this even greater.
 
-![Sentimen scores](https://github.com/gatorduck/NLP_SentimentAnalysis/blob/spyder/image/scores.png)
+![Sentiment scores](https://github.com/gatorduck/NLP_SentimentAnalysis/blob/spyder/image/scores.png)
 
 # Clustering
 
@@ -43,4 +43,4 @@ For the last section we use term frequency and apply weights to emphasize words 
 
 On average cluster 1 had higher positive sentiment scores. Common features that help contribute to this score are these movies are described as fun and have zombies. Cluster 5 on average had the lowest scores, with common features that include negative sentiment through words such as 'boring'. Overall there is positive sentiment for horror movies, but not exactly great films. Up next, lets find out what exactly is boring above these movies by using ngrams and chunkers.
 
-![Clusters 1 and 5](../image/clusters.png)
+![clusters 1 and 5](https://github.com/gatorduck/NLP_SentimentAnalysis/blob/spyder/image/clusters.png)
