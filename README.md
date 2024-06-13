@@ -35,7 +35,7 @@ Using our tokenized words and part of speech sets we tally negative and positive
 
 Adding score and overal verbal sentiment, e.g. positive or negative. We see that the Ghost Ship movie had a positive review, in this case anything with sentiment scores greater than or equal to zero are labelled as positive. This may not accurately represent how great the movie is, as this is only 1 review per movie. We could scape over hundreds of reviews per movie to make this even greater.
 
-![Clusters 1 and 5](../image/scores.png)
+![Sentimen scores](https://github.com/gatorduck/NLP_SentimentAnalysis/blob/spyder/image/scores.png)
 
 # Clustering
 
